@@ -1,0 +1,8 @@
+*.egg-info
+*goa*.gz
+*.fb.gz
+*.pyc
+Ontologizer.jar
+*.obo
+go_lookup.json
+
